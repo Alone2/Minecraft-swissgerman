@@ -1,0 +1,6 @@
+{
+"pack":{ "pack_format":3, "description":"Resource pack sample"
+},
+"language":{ "de_ch":{ "name":"Baernduetsch", "region":"Baern", "bidirectional":false }
+}
+}
