@@ -1,2 +1,2 @@
 # Minecraft-swissgerman
-Minecraft in swissgerman
+Minecraft in Berndeutsch
