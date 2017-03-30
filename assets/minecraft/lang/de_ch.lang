@@ -166,15 +166,15 @@ createWorld.customize.custom.preset.drought=Drought
 createWorld.customize.custom.preset.caveChaos=Caves of Chaos
 createWorld.customize.custom.preset.goodLuck=Good Luck
 
-gameMode.survival=Survival Mode
-gameMode.creative=Creative Mode
-gameMode.adventure=Adventure Mode
-gameMode.spectator=Spectator Mode
-gameMode.hardcore=Hardcore Mode!
-gameMode.changed=Your game mode has been updated to %s
+gameMode.survival=Survival Modus
+gameMode.creative=Kreativ Modus
+gameMode.adventure=Adventure Modus
+gameMode.spectator=Spectator Modus
+gameMode.hardcore=Hardcore Modus!
+gameMode.changed=Di neu Gamemode isch dr %s
 
-spectatorMenu.previous_page=Previous Page
-spectatorMenu.next_page=Next Page
+spectatorMenu.previous_page=Letschti Sitä
+spectatorMenu.next_page=Nächsti Sitä
 spectatorMenu.close=Close Menu
 spectatorMenu.teleport=Teleport to Player
 spectatorMenu.teleport.prompt=Select a player to teleport to
