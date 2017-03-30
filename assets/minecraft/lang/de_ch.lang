@@ -1,17 +1,17 @@
-
+﻿
 language.name=Bärndütsch
 language.region=Bärn
 language.code=de_ch
 
 gui.done=Fertig
-gui.cancel=Cancel
-gui.back=Back
-gui.toTitle=Back to title screen
-gui.toMenu=Back to server list
-gui.up=Up
-gui.down=Down
-gui.yes=Yes
-gui.no=No
+gui.cancel=Abbrächä
+gui.back=Zrüg
+gui.toTitle=Zrüg zum titu
+gui.toMenu=Zrüg zur Server Listä
+gui.up=Ufä
+gui.down=Abä
+gui.yes=Ja
+gui.no=Nei
 gui.none=None
 gui.all=All
 
@@ -23,15 +23,15 @@ translation.test.invalid2=hi %  s
 translation.test.args=%s %s
 translation.test.world=world
 
-menu.game=Game Menu
-menu.singleplayer=Singleplayer
-menu.multiplayer=Multiplayer
+menu.game=Spiu Menü
+menu.singleplayer=Einzuspieler
+menu.multiplayer=Mehrspieler
 menu.online=Minecraft Realms
-menu.options=Options...
-menu.quit=Quit Game
-menu.returnToMenu=Save and Quit to Title
+menu.options=Optionä...
+menu.quit=Spiu schliässä
+menu.returnToMenu=Spichärä u zrügg zum titu.
 menu.disconnect=Disconnect
-menu.returnToGame=Back to Game
+menu.returnToGame=Zrüg zum Spiu
 menu.generatingLevel=Generating world
 menu.loadingLevel=Loading world
 menu.generatingTerrain=Building terrain
