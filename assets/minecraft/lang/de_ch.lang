@@ -79,7 +79,7 @@ selectWorld.load_folder_access=Unable to read or access folder where game worlds
 
 createWorld.customize.presets=Presets
 createWorld.customize.presets.title=Äs Preset uswählä
-createWorld.customize.presets.select=Use Preset
+createWorld.customize.presets.select=Preset verwändä
 createWorld.customize.presets.share=Want to share your preset with someone? Use the below box!
 createWorld.customize.presets.list=Alternatively, here's some we made earlier!
 createWorld.customize.flat.title=Superflat Customization
