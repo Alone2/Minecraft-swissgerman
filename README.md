@@ -1,2 +1,5 @@
 # Minecraft-swissgerman
-Minecraft in Berndeutsch
+Resource-Pack für Minecraft in Berndeutsch.
+
+Download:
+Einfach oben zip herunterladen!
