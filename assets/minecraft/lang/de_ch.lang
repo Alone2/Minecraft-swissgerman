@@ -313,16 +313,16 @@ disconnect.endOfStream=End of stream
 disconnect.overflow=Buffer overflow
 disconnect.spam=Kicked for spamming
 
-soundCategory.master=Master Volume
-soundCategory.music=Music
-soundCategory.record=Jukebox/Note Blocks
-soundCategory.weather=Weather
-soundCategory.hostile=Hostile Creatures
-soundCategory.neutral=Friendly Creatures
-soundCategory.player=Players
-soundCategory.block=Blocks
-soundCategory.ambient=Ambient/Environment
-soundCategory.voice=Voice/Speech
+soundCategory.master=Master Volumä
+soundCategory.music=Musig
+soundCategory.record=Jukebox/Notä Blöck
+soundCategory.weather=Wätter
+soundCategory.hostile=Bösi Kreaturä
+soundCategory.neutral=Fründlächi Kreaturä
+soundCategory.player=Spieler
+soundCategory.block=Blöck
+soundCategory.ambient=Umgäbig
+soundCategory.voice=Stimm
 
 record.nowPlaying=Now playing: %s
 
