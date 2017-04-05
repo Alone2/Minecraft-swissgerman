@@ -30,14 +30,14 @@ menu.online=Minecraft Realms
 menu.options=Optionä...
 menu.quit=Spiu schliässä
 menu.returnToMenu=Spichärä u zrügg zum titu.
-menu.disconnect=Disconnect
+menu.disconnect=Vom Server trennä
 menu.returnToGame=Zrüg zum Spiu
-menu.generatingLevel=Generating world
-menu.loadingLevel=Loading world
-menu.generatingTerrain=Building terrain
-menu.convertingLevel=Converting world
-menu.respawning=Respawning
-menu.shareToLan=Open to LAN
+menu.generatingLevel=Wäut generierä
+menu.loadingLevel=Wäut ladä
+menu.generatingTerrain=Geländ bouä
+menu.convertingLevel=Wäut konventierä
+menu.respawning=Widerbeläbä
+menu.shareToLan=Im Lan öffnä
 
 selectWorld.title=Wäut uswählä
 selectWorld.empty=läär
@@ -294,9 +294,9 @@ demo.help.fullWrapped=This demo will last 5 ingame days (about 1 hour and 40 min
 demo.help.buy=Purchase Now!
 demo.help.later=Continue Playing!
 
-connect.connecting=Connecting to the server...
-connect.authorizing=Logging in...
-connect.failed=Failed to connect to the server
+connect.connecting=Server verbindä...
+connect.authorizing=I loggä...
+connect.failed=Server Verbindig fäugschlagä
 
 disconnect.genericReason=%s
 disconnect.disconnected=Disconnected by Server
