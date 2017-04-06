@@ -500,16 +500,16 @@ resourcePack.incompatible.confirm.new=Das Resource Pack isch für ä neueri Vers
 
 sign.edit=Edit sign message
 
-book.pageIndicator=Page %1$s of %2$s
-book.byAuthor=by %1$s
-book.signButton=Sign
-book.editTitle=Enter Book Title:
-book.finalizeButton=Sign and Close
-book.finalizeWarning=Note! When you sign the book, it will no longer be editable.
+book.pageIndicator=Sitä %1$s vo %2$s
+book.byAuthor=vo %1$s
+book.signButton=Signierä
+book.editTitle=Buächtitu igäh:
+book.finalizeButton=Signierä + zuä tuä
+book.finalizeWarning=Notiz! Wenn das Buäch signiersch, chasch nid meh editierä.
 book.generation.0=Original
 book.generation.1=Kopie von original
 book.generation.2=Kopie vor Kopie
-book.generation.3=Tattered
+book.generation.3=Zergätzt
 
 merchant.deprecated=Trade something else to unlock!
 
