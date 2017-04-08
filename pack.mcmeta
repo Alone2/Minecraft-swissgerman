@@ -1,6 +1,6 @@
 {
-"pack":{ "pack_format":3, "description":"\u00A7c\u00A7nMinecraft uf Baernduetsch"
+"pack":{ "pack_format":3, "description":"\u00A7c\u00A7nMinecraft auf Berndeutsch"
 },
-"language":{ "de_ch":{ "name":"Baernduetsch", "region":"Baern", "bidirectional":false }
+"language":{ "de_ch":{ "name":"Berndeutsch", "region":"Bern", "bidirectional":false }
 }
 }
