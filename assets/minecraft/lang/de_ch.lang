@@ -300,18 +300,18 @@ connect.failed=Server Verbindig fäugschlagä
 
 disconnect.genericReason=%s
 disconnect.disconnected=Disconnected by Server
-disconnect.lost=Connection Lost
+disconnect.lost=Verbindig fäugschlagä
 disconnect.kicked=Was kicked from the game
 disconnect.timeout=Timed out
-disconnect.closed=Connection closed
+disconnect.closed=Verbindig gschlossä
 disconnect.loginFailed=Failed to login
 disconnect.loginFailedInfo=Failed to login: %s
 disconnect.loginFailedInfo.serversUnavailable=The authentication servers are currently down for maintenance.
-disconnect.loginFailedInfo.invalidSession=Invalid session (Try restarting your game)
+disconnect.loginFailedInfo.invalidSession=Ungüldigi Sitzg. (Versuäch z Spiu neu z startä)
 disconnect.quitting=Quitting
 disconnect.endOfStream=End of stream
 disconnect.overflow=Buffer overflow
-disconnect.spam=Kicked for spamming
+disconnect.spam=Kicked wäggä spam
 
 soundCategory.master=Master Volumä
 soundCategory.music=Musig
