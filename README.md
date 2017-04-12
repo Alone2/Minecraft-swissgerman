@@ -2,4 +2,4 @@
 Resource-Pack für Minecraft uf Bärndeutsch.
 
 Download:
-Einfach oben zip herunterladen!
+Einfach oben master klonen!
