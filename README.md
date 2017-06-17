@@ -2,4 +2,4 @@
 Resource-Pack für Minecraft uf Bärndeutsch.
 
 Download:
-Einfach oben master klonen!
+http://www.bundr.net/files/downupload/
