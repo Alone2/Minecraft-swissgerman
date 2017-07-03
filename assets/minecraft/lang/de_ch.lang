@@ -293,6 +293,7 @@ multiplayer.player.left=%s het z Spiu verlah
 
 chat.cannotSend=Cannot send chat message
 chat.type.text=<%s> %s
+chat.type.text.narrate=%s says %s
 chat.type.emote=* %s %s
 chat.type.announcement=[%s] %s
 chat.type.admin=[%s: %s]
