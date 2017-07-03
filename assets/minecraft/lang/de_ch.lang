@@ -15,6 +15,10 @@ gui.no=Nei
 gui.none=None
 gui.all=All
 
+gui.recipebook.moreRecipes=Right Click for more
+gui.recipebook.toggleRecipes.all=Showing all
+gui.recipebook.toggleRecipes.craftable=Showing craftable
+
 translation.test.none=Hello, world!
 translation.test.complex=Prefix, %s%2$s again %s and %1$s lastly %s and also %1$s again!
 translation.test.escape=%%s %%%s %%%%s %%%%%s
